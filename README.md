@@ -3,6 +3,8 @@
 Me puedes encontrar en
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tatianallorente//)](https://www.linkedin.com/in/tatianallorente//) 
 
+También puedes ver mi portfolio personal en: [https://www.tatianallorente.es/](https://www.tatianallorente.es/)
+
 😊
 
 # Tecnologías
